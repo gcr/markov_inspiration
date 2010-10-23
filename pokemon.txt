@@ -251,7 +251,6 @@ Poliwrath
 Ponyta
 Poochyena
 Porygon
-Porygon2
 Primeape
 Psyduck
 Pupitar
